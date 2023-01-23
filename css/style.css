@@ -1,0 +1,22 @@
+table       {  
+		width:100%;
+		background-image:url('https://wallpaperaccess.com/full/461236.jpg');
+		background-size:cover;
+		border:2px solid;}
+
+ table,th,td
+		{
+		
+		padding:19px;
+	        text-align:center;
+		border-collapse:collapse;
+		}
+
+ th:hover      {
+		width:5%;
+		background-image:url('../images/a.png') ;width:8px;
+	        background-size:cover;
+		}
+
+
+
